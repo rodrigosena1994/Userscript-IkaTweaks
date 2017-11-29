@@ -1,0 +1,102 @@
+
+    LANG('pt-BR', 'Português BR', {
+
+        'str_IkaTweaks'             : 'IkaTweaks',
+        'str_IkaTweaks_menu'        : 'IkaTweaks Menu',
+        'str_IkaTweaks_tabModules'  : 'Módulos',
+        'str_IkaTweaks_tabAbout'    : 'Sobre & Créditos',
+
+        'str_Settings'          : 'Configurações',
+        'str_Modules'           : 'Módulos',
+        'str_Enabled'           : 'Ativar',
+        'str_Name'              : 'Nome',
+        'str_Description'       : 'Descrição',
+        'str_SaveSettings'      : 'Savar configurações!',
+        'str_ModuleSettings'    : 'Módulo de configuração',
+
+        'str_SaveLanguageButtonText'    : 'Idioma',
+
+        'str_IkaTweaks_aboutHeader'     : 'Sobre',
+        'str_IkaTweaks_creditsHeader'   : 'Creditos',
+
+        'str_ClearStorageText'  : 'Limpar Armazenamento',
+        'str_ClearStorageInfo'  : 'Você pode apagar os dados criados pelo IkaTweaks salvos externamento ao seu navegador',
+
+        'str_ToGreasyForkText'  : 'IkaTweaks @ Greasy Fork',
+        'str_ToOpenUserJSText'  : 'IkaTweaks @ OpenUserJS',
+        'str_ToGitHubRepoText'  : 'IkaTweaks @ GitHub',
+
+        'str_IkaTweaks_aboutText2'  : 'Dúvidas, sugetões, bugs ou reclamações? Mande um e-mail para <span id="myEmail"></span> ou me visite em: ',
+        'str_IkaTweaks_aboutCredit1': 'As imagens do One Piece podem ser encontradas no seguinte link: <a id="creditUrl1"></a>',
+        'str_IkaTweaks_aboutCredit2': null,
+
+        // -- TweakCitySelect
+        'str_TweakCitySelect_Name'                  : 'Cidade',
+        'str_TweakCitySelect_Info'                  : 'Extender menu de cidades',
+        'str_TweakCitySelect_hideCoords'            : 'Ocultar coodernadas',
+        'str_TweakCitySelect_showTradegoods'        : 'Mostrar Bens Comerciais',
+        'str_TweakCitySelect_highlightSelected'     : 'Destacar cidade selecionada',
+        'str_TweakCitySelect_sortList'              : 'Usar classificação personalizada',
+        'str_TweakCitySelect_sortEverywhere'        : 'Modificar posição de edificios (palacios, museum, ...)',
+
+        // -- TweakAdvisors
+        'str_TweakAdvisors_Name'                    : 'Conselheiros',
+        'str_TweakAdvisors_Info'                    : 'Alterar imagem dos teus conselheiros',
+        'str_TweakAdvisors_hidePremiumButtons'      : 'Esconder botão premium (+)',
+        'str_TweakAdvisors_replaceAdvisors'         : 'Substituir conselheiros',
+        'str_TweakAdvisors_cities'                  : 'Cidades',
+        'str_TweakAdvisors_military'                : 'Militar',
+        'str_TweakAdvisors_research'                : 'Pesquisas',
+        'str_TweakAdvisors_diplomacy'               : 'Diplomacia',
+        'str_TweakAdvisors_maleMayor'               : 'Prefeito',
+        'str_TweakAdvisors_malePremiumMayor'        : 'Prefeito (premium)',
+        'str_TweakAdvisors_femaleMayor'             : 'Esposa do prefeito',
+        'str_TweakAdvisors_femalePremiumMayor'      : 'Esposa do prefeito (premium)',
+        'str_TweakAdvisors_maleGeneral'             : 'General',
+        'str_TweakAdvisors_malePremiumGeneral'      : 'General (premium)',
+        'str_TweakAdvisors_maleScientist'           : 'Cientista',
+        'str_TweakAdvisors_malePremiumScientist'    : 'Cientista (premium)',
+        'str_TweakAdvisors_maleDiplomat'            : 'Diplomata',
+        'str_TweakAdvisors_malePremiumDiplomat'     : 'Diplomata (premium)',
+        'str_TweakAdvisors_onePieceLuffy'           : 'Monkey D. Luffy (One Piece)',
+        'str_TweakAdvisors_onePieceZoro'            : 'Roronoa Zoro (One Piece)',
+        'str_TweakAdvisors_onePieceUsopp'           : 'Usopp (One Piece)',
+        'str_TweakAdvisors_onePieceNami'            : 'Nami (One Piece)',
+
+        // -- CustomTowns
+        'str_CustomTowns_Name'                    : 'Personalizar Cidades',
+        'str_CustomTowns_Info'                    : 'Ocultar ou reposicionar os edifícios da sua cidade',
+        'str_CustomTowns_tabSettings'             : 'Cidades',
+        'str_CustomTowns_tabPositions'            : 'Posição dos edifícios',
+        'str_CustomTowns_customPositionsDisabled' : 'Ative as posições de construção personalizadas primeiro',
+        'str_CustomTowns_confirmSaveChanged'      : 'Salvar as posições modificadas?',
+        'str_CustomTowns_hideFlyingShop'          : 'Esconder loja premium do mapa (Balão voador)',
+        'str_CustomTowns_hideDailyTasks'          : 'Esconder Tarefas Diárias',
+        'str_CustomTowns_hideAmbrosiaFountain'    : 'Esconder Fonte de Ambrosia Divina',
+        'str_CustomTowns_hideCapitalBackground'   : 'Remover personalização de fundo da sua capital',
+        'str_CustomTowns_hideCinema'              : 'Esconder Cinema',
+        'str_CustomTowns_hidePirateFortress'      : 'Esconder Fortaleza dos Piratas',
+        'str_CustomTowns_hideLockedPosition'      : 'Esconder Bloqueio de Posição',
+        'str_CustomTowns_NoAnimPointerEvents'     : 'Ignorar eventos com o mouse para as animação e ou caminhantes (Isso ira desabilitar as bolhas dos caminhantes)',
+        'str_CustomTowns_DragDropHint'            : '<i>(Para mudar a posição dos edifícios, arraste uma construção para um local vazio, caso não seja possível mover um edifício, ocorrerá um erro.)</i>',
+        'str_CustomTowns_restrictedPosition'      : 'Você não pode colocar o edifício aqui',
+        'str_CustomTowns_useCustomPositions'      : 'Usar posições personalizadas para as construções',
+        'str_CustomTowns_SavePositionsButtonText' : 'Salvar posições',
+
+        // -- TweakResource
+        'str_TweakResources_Name'                   : 'Recursos',
+        'str_TweakResources_Info'                   : 'Mostra os recursos que estão em falta ou o restante',
+        'str_TweakResources_showMissing'            : 'Mostrar recursos em falta',
+        'str_TweakResources_showRemaining'          : 'Mostrar recursos restantes',
+
+        // -- Updatechecker
+        'str_UpdateChecker_Name'                    : 'Atualizações',
+        'str_UpdateChecker_Info'                    : 'Verificar atualizações paara o IkaTweaks',
+        'str_UpdateChecker_forceNow'                : 'Verificar',
+        'str_UpdateChecker_lastResult'              : 'Último Status',
+        'str_UpdateChecker_newVersionAvailable'     : 'Nova Versão Disponivel',
+        'str_UpdateChecker_versionUpToDate'         : 'Versão Atual Atualizada',
+        'str_UpdateChecker_HowDowsThisWork'         : 'Como funciona a verficação: Para sua seguraça, o IkaTweaks NÃO CARREGA NENHUM script externo, mas uma imagem pequena do GitHub. Usando o tamanho e a resolução da mesma é feita a verificação de uma nova versão do IkaTweaks ;)',
+        'str_UpdateChecker_linksHeader'             : 'Here you will get always the newest version:',
+
+    });
